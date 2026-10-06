@@ -23,15 +23,16 @@ title: Вступ
   : [[HML](https://ykochura.github.io/rl-kpi/?p=lecture2.md#1)][[PDF](https://ykochura.github.io/rl-kpi/pdf/lecture2.pdf)]
 
 
-<!--14 жов
+05 жов
 : **Лекція 3**{: .label .label-green } **Планування за допомогою динамiчного програмування**
   : [[HML](https://ykochura.github.io/rl-kpi/?p=lecture3.md#1)][[PDF](https://ykochura.github.io/rl-kpi/pdf/lecture3.pdf)] 
 
+06 жов
 : **ПР #2**{: .label .label-purple} **N-рукий бандит**
-  : [[Деталі](https://ykochura.github.io/rl-kpi/practice/practice2/practice2.pdf)]
-    : **Дедлайн**: 28 жовтня
+  : [[Деталі](https://ykochura.github.io/rl-kpi/practice/practice2/lab2.pdf)]
+    : **Дедлайн**: 26 жовтня
 
-11 лис
+<!--11 лис
 : **Лекція 4**{: .label .label-green } **Розробка та навчання агентів**
   : [[COLAB](https://colab.research.google.com/github/YKochura/rl-kpi/blob/main/tutor/rl_notebook.ipynb)]
 
