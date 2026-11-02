@@ -37,6 +37,13 @@ title: Вступ
 : **Лекція 4**{: .label .label-green } **Безмодельне передбачення**
   : [[HML](https://ykochura.github.io/rl-kpi/?p=lecture4.md#1)][[PDF](https://ykochura.github.io/rl-kpi/pdf/lecture4.pdf)] 
 
+02 лис
+: **Лекція 5**{: .label .label-green } **Методи апроксимацiї функцiї цiнностi**
+  : [[HML](https://ykochura.github.io/rl-kpi/?p=lecture5.md#1)]
+
+: **Семінар**{: .label .label-yellow} **Теми на семінар**
+  : [[PDF](https://ykochura.github.io/rl-kpi/seminar/topics.pdf)] 
+
 <!--11 лис
 : **Лекція 4**{: .label .label-green } **Розробка та навчання агентів**
   : [[COLAB](https://colab.research.google.com/github/YKochura/rl-kpi/blob/main/tutor/rl_notebook.ipynb)]
