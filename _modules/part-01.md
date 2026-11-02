@@ -41,7 +41,7 @@ title: Вступ
 : **Лекція 5**{: .label .label-green } **Методи апроксимацiї функцiї цiнностi**
   : [[HML](https://ykochura.github.io/rl-kpi/?p=lecture5.md#1)]
 
-: **ПР #3**{: .label .label-purple} **Глибока Q-мережа**
+: **ПР #3**{: .label .label-purple} **Глибинне Q-навчання**
   : [[Деталі](https://ykochura.github.io/rl-kpi/practice/practice3.pdf)]
     : **Дедлайн**: 12 грудня
 
