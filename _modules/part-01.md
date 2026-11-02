@@ -41,6 +41,13 @@ title: Вступ
 : **Лекція 5**{: .label .label-green } **Методи апроксимацiї функцiї цiнностi**
   : [[HML](https://ykochura.github.io/rl-kpi/?p=lecture5.md#1)]
 
+: **ПР #3**{: .label .label-purple} **Глибока Q-мережа**
+  : [[Деталі](https://ykochura.github.io/rl-kpi/practice/practice3.pdf)]
+    : **Дедлайн**: 12 грудня
+
+: **Матеріал**{: .label .label-red}**Розробка та навчання агентів**
+  : [[COLAB](https://colab.research.google.com/github/YKochura/rl-kpi/blob/main/tutor/rl_notebook.ipynb)]
+
 : **Семінар**{: .label .label-yellow} **Теми на семінар**
   : [[PDF](https://ykochura.github.io/rl-kpi/seminar/topics.pdf)] 
 
